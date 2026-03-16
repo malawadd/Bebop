@@ -1,6 +1,6 @@
-# Bebop MAD: Amazon Nova AI Hackathon Project
+# Bebop : Amazon Nova AI Hackathon Project
 
-Bebop MAD is an innovative application developed for the Amazon Nova AI Hackathon. It leverages the cutting-edge capabilities of Amazon Nova models to deliver a real-time neurofeedback and mental wellness companion. This project combines advanced reasoning, voice AI, and multimodal understanding to create a unique and impactful user experience.
+Bebop  is an innovative application developed for the Amazon Nova AI Hackathon. It leverages the cutting-edge capabilities of Amazon Nova models to deliver a real-time neurofeedback and mental wellness companion. This project combines advanced reasoning, voice AI, and multimodal understanding to create a unique and impactful user experience.
 
 ---
 
